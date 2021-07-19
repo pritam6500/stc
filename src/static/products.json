@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Galaxy A7 4G",
+        "brand": "Samsung",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/samsung_galaxy_s21ultra_phantomblack--1602596817996_optimized_optimized.png"
+    },
+    {
+        "name": "Huawei Y7A",
+        "brand": "Huawei",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/Left-Image-A32-4G.png"
+    },
+    {
+        "name": "samsung",
+        "brand": "Others",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/ONE-PLUS.png"
+    },
+    {
+        "name": "samsung",
+        "brand": "Redmi",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/MicrosoftTeams-image.png"
+    },
+    {
+        "name": "Huawei Y7A",
+        "brand": "Huawei",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/Left-Image-A32-4G.png"
+    },
+    {
+        "name": "Galaxy A7 4G",
+        "brand": "Samsung",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/samsung_galaxy_s21ultra_phantomblack--1602596817996_optimized_optimized.png"
+    },
+    {
+        "name": "samsung",
+        "brand": "Redmi",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/MicrosoftTeams-image.png"
+    },
+    {
+        "name": "samsung",
+        "brand": "Others",
+        "imagePath": "https://www.stc.com.kw/sites/stc/en_US/ONE-PLUS.png"
+    }
+]
